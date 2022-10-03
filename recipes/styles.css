@@ -1,0 +1,19 @@
+body {
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Avenir', sans-serif; 
+    background-color: rgb(236, 223, 241);    
+    padding: 0rem;
+  }
+img {
+    height: 300px;
+    width: 300px;
+}
+p {
+    width: 500px;
+}
+div.section {
+   width: auto;
+   margin: auto;
+}
